@@ -9,3 +9,7 @@ Calculo y creacion del fichero alturas.asc calculando la diferencia de los fiche
 
 Los ficheros MDS y MDT es un recorte de los originales del centro de descargas de CNIG y deben tene el mismo numero de filas y columnas
 
+El recorte de ASC original se hace en QGIS 
+GDAL --> Extracción raster --> Cortar ráster por capa
+
+
