@@ -12,4 +12,8 @@ Los ficheros MDS y MDT es un recorte de los originales del centro de descargas d
 El recorte de ASC original se hace en QGIS 
 GDAL --> Extracción raster --> Cortar ráster por capa
 
+### Estadisticas raster a vectorial
 
+QGIS --> Analisis Raster --> Estadisticas de zona
+
+Calculamos las estadisticas de la capa raster de las alturas para cada parcela catastral vectorial superpuesta
